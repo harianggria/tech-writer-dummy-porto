@@ -6,4 +6,4 @@ This portfolio contains example works, templates, and learning artifacts to show
 
 ## 📁 Contents
 
-- 🧾 [User Manuals](user-manuals/sample-user-manual.md)
+- 🧾 [User Manuals](sample-user-manual.md)
